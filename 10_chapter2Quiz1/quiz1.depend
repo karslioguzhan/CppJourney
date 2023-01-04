@@ -1,0 +1,19 @@
+# depslib dependency file v1.0
+1662628364 source:c:\users\okarsli\onedrive - expleo france\05_arbeitsordner\05_cpp\10_chapter2quiz1\main.cpp
+	<iostream>
+	<limits>
+	"readNumber.h"
+	"writeAnswer.h"
+
+1662627442 c:\users\okarsli\onedrive - expleo france\05_arbeitsordner\05_cpp\10_chapter2quiz1\readnumber.h
+
+1662628306 source:c:\users\okarsli\onedrive - expleo france\05_arbeitsordner\05_cpp\10_chapter2quiz1\readnumber.cpp
+	"readNumber.h"
+	<iostream>
+
+1662628035 c:\users\okarsli\onedrive - expleo france\05_arbeitsordner\05_cpp\10_chapter2quiz1\writeanswer.h
+
+1662628394 source:c:\users\okarsli\onedrive - expleo france\05_arbeitsordner\05_cpp\10_chapter2quiz1\writeanswer.cpp
+	"writeAnswer.h"
+	<iostream>
+
